@@ -1,0 +1,29 @@
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\ObserverPattern\obj\Debug\net6.0\ObserverPattern.csproj.AssemblyReference.cache
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\ObserverPattern\obj\Debug\net6.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\ObserverPattern\obj\Debug\net6.0\ObserverPattern.AssemblyInfoInputs.cache
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\ObserverPattern\obj\Debug\net6.0\ObserverPattern.AssemblyInfo.cs
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\ObserverPattern\obj\Debug\net6.0\ObserverPattern.csproj.CoreCompileInputs.cache
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\ObserverPattern\bin\Debug\net6.0\ObserverPattern.exe
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\ObserverPattern\bin\Debug\net6.0\ObserverPattern.deps.json
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\ObserverPattern\bin\Debug\net6.0\ObserverPattern.runtimeconfig.json
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\ObserverPattern\bin\Debug\net6.0\ObserverPattern.dll
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\ObserverPattern\bin\Debug\net6.0\ObserverPattern.pdb
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\ObserverPattern\obj\Debug\net6.0\ObserverPattern.dll
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\ObserverPattern\obj\Debug\net6.0\refint\ObserverPattern.dll
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\ObserverPattern\obj\Debug\net6.0\ObserverPattern.pdb
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\ObserverPattern\obj\Debug\net6.0\ObserverPattern.genruntimeconfig.cache
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\ObserverPattern\obj\Debug\net6.0\ref\ObserverPattern.dll
+C:\Users\flori\source\repos\ObserverPattern\bin\Debug\net6.0\ObserverPattern.exe
+C:\Users\flori\source\repos\ObserverPattern\bin\Debug\net6.0\ObserverPattern.deps.json
+C:\Users\flori\source\repos\ObserverPattern\bin\Debug\net6.0\ObserverPattern.runtimeconfig.json
+C:\Users\flori\source\repos\ObserverPattern\bin\Debug\net6.0\ObserverPattern.dll
+C:\Users\flori\source\repos\ObserverPattern\bin\Debug\net6.0\ObserverPattern.pdb
+C:\Users\flori\source\repos\ObserverPattern\obj\Debug\net6.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\ObserverPattern\obj\Debug\net6.0\ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\ObserverPattern\obj\Debug\net6.0\ObserverPattern.AssemblyInfo.cs
+C:\Users\flori\source\repos\ObserverPattern\obj\Debug\net6.0\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\ObserverPattern\obj\Debug\net6.0\ObserverPattern.dll
+C:\Users\flori\source\repos\ObserverPattern\obj\Debug\net6.0\refint\ObserverPattern.dll
+C:\Users\flori\source\repos\ObserverPattern\obj\Debug\net6.0\ObserverPattern.pdb
+C:\Users\flori\source\repos\ObserverPattern\obj\Debug\net6.0\ObserverPattern.genruntimeconfig.cache
+C:\Users\flori\source\repos\ObserverPattern\obj\Debug\net6.0\ref\ObserverPattern.dll
